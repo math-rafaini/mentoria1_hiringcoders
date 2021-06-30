@@ -1,3 +1,3 @@
-const helloWorld = () => {
+const Ben10wasthebestcartoon = () => {
   console.log('Hello World')
 }
